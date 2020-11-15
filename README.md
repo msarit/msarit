@@ -11,7 +11,7 @@ I work at [**Forem**](https://www.forem.com/), an open source initiative that is
 Motivated by how much I've been supported as an early-career dev, I founded [**Our Time For Tech**](https://ourtimefortech.org/), a nonprofit program for women seeking to break into Tech.
 We have two cohort types:
  - *CodeCollab* - mentees build a complex, forward-facing application utilizing Agile principles, and emerge with an impressive addition to their portfolios.
- - *BetterPrep* - mentees are kept super-accountable to their job search goals, practice algorithms and learn to ace whiteboarding through mock interviewing.
+ - *BetterPrep* - mentees are held super-accountable to their job search goals, practice algorithms and learn to ace coding challenges through mock interviewing.
 
 I blog at [**Arit.dev**](https://arit.dev). ✍🏾
 
