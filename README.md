@@ -8,10 +8,10 @@ I attended the [Firehose Project](https://thefirehoseproject.com/) coding bootca
 
 I work at [**Forem**](https://www.forem.com/), an open source initiative that is building the next generation of ultra-customizable, data-respecting, privacy-obsessed online community software! I LOVE MY JOB. I adore my teammates. Please consider [contributing to our codebase](https://github.com/forem/forem)! 🌱
 
-Motivated by how much I've been supported as an early-career dev, I founded [**Our Time For Tech**](https://ourtimefortech.org/), a nonprofit initiative for women seeking to break into Tech.
+Motivated by how much I've been supported as an early-career dev, I founded [**Our Time For Tech**](https://ourtimefortech.org/), a nonprofit program for women seeking to break into Tech.
 We have two cohort types:
- - *CodeCollab* - mentees build a complex, forward-facing application utilizing Agile principles, and emerge with an impressive addition to their portfolios
- - *BetterPrep* - mentees are kept super accountable to their job search goals, practicing algorithms and learning to ace whiteboarding through mock interviewing.
+ - *CodeCollab* - mentees build a complex, forward-facing application utilizing Agile principles, and emerge with an impressive addition to their portfolios.
+ - *BetterPrep* - mentees are kept super-accountable to their job search goals, practice algorithms and learn to ace whiteboarding through mock interviewing.
 
 I blog at [**Arit.dev**](https://arit.dev). ✍🏾
 
