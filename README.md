@@ -1,7 +1,5 @@
-
-
 # Hello! I'm Arit! 👋🏾
----
+
 ### As a mom of 2 👨‍👩‍👧‍👦 in her late thirties ⏳, I transitioned from a public health background into Software Engineering. 👩🏽‍💻
 
 I attended the [Firehose Project](https://thefirehoseproject.com/) coding bootcamp. I landed my first engineering job 6 months after graduating. I share that story on my [YouTube channel](https://www.youtube.com/watch?v=rc5AyncB_Xw). 📺
