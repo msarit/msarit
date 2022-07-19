@@ -1,7 +1,5 @@
 # Hello! I'm Arit! 👋🏾
 
-![Banner](https://i.ibb.co/S6cHcjM/github-readme-banner.png)
-
 ### As a 38-year-old mum of 2 👨‍👩‍👧‍👦, I transitioned from a public health background into Software Engineering. 👩🏽‍💻
 
 I attended the [Firehose Project](https://thefirehoseproject.com/) coding bootcamp. I landed my first engineering job 6 months after graduating. I share that story on my [**YouTube channel**](https://www.youtube.com/watch?v=rc5AyncB_Xw). 📺
