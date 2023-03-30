@@ -4,7 +4,7 @@
 
 I attended the [Firehose Project](https://thefirehoseproject.com/) coding bootcamp. I landed my first engineering job 6 months after graduating. I share that story on my [**website**](https://www.arit.dev/story). 📺
 
-Fueled by my passions for teaching and empowering others, I founded [**Our Time For Tech**](https://ourtimefortech.org/): a nonprofit program for women seeking to switch to or excel in Tech careers.
+Fueled by my passions for teaching and empowering others, I founded [**Our Time For Tech**](https://ourtimefortech.org/): a nonprofit organization that supports women starting Tech careers.
 
 I also run a community of software developers: [**The Arit Developer Circle**](https://www.arit.dev/circle).
 
